@@ -1,0 +1,2 @@
+obj\Debug\net10.0\Protos/MovieRecommender.cs \
+obj\Debug\net10.0\Protos/MovieRecommenderGrpc.cs: Protos/movie_recommender.proto
